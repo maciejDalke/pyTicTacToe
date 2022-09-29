@@ -14,7 +14,7 @@ def menu():
     'I' - pokaż ustawienia gry
     'S' - wejście w ustawienia
     'R' - aby zrestartować grę
-    'Q' - wyjście z gry
+    'Q' - wyjście z gry 
     """)
 
 

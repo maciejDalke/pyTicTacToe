@@ -1,7 +1,7 @@
 def settings(temp):
 
     temp = input("czy chcesz zmienić znaki graczy: ")
-    if 't' == input("czy chcesz zmienić znaki graczy: ").lower()[0]:
+    if 't' == input("czy chcesz zmienić znak gracza: ").lower()[0]:
         while True:
             temp1 = input("Wprowadź znak gracza 1: ")[0]
             temp2 = input("Wprowadź znak gracza 2: ")[0]

@@ -56,4 +56,4 @@ while True:
         case 'q':
             break
 
-print("Żegnam")
+print("Żegnam cieplutko")
